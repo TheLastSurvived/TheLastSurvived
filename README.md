@@ -1,6 +1,6 @@
 # Привет 👋  
 ### 🔧 Мой стек:  
-- **Backend**: Python, Django, FastAPI, Flask, PHP, Wordpress
+- **Backend**: Python, FastAPI, Flask, PHP, Wordpress
 - **Frontend**: React, JavaScript, HTML/CSS  
 - **Базы данных**: PostgreSQL, MySQL, SQLite  
 - **DevOps**: Docker, Linux
